@@ -1,7 +1,7 @@
-# GBA Games Page:
+# Welcome to GBA Emulator
 
-https://jsemu3.github.io/gba
+GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
 
-# GBA Emulator Core Used:
+# GBA Emulator Website
 
-https://github.com/taisel/IodineGBA
+https://theclashman2.github.io/GBA-Emulator/
